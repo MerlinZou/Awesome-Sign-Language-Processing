@@ -60,6 +60,10 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 - [Complete List of Sign Language Recognition](./complete_list/sign_language_recognition.md)
 
 ### Sign Language Translation
+- [ACM MM 2025] Gloss Matters: Unlocking the Potential of Non-Autoregressive Sign Language Translation      
+*Zhihao Wang, Shiyu Liu, Zhiwei He, Kangjie Zheng, Liangying Shao, Junfeng Yao, Jinsong Su*
+- [BMVC 2025] Beyond Gloss: A Hand-Centric Framework for Gloss-Free Sign Language Translation [[paper]](https://arxiv.org/abs/2507.23575)     
+*Sobhan Asasi, Mohamed Ilyas Lakhal, Ozge Mercanoglu Sincan, Richard Bowden*
 - [ACL 2025] SHuBERT: Self-Supervised Sign Language Representation Learning via Multi-Stream Cluster Prediction. [[paper]](https://arxiv.org/abs/2411.16765)     
 *Shester Gueuwou, Xiaodan Du, Greg Shakhnarovich, Karen Livescu, Alexander H. Liu*
 - [ACL 2025] Multilingual Gloss-free Sign Language Translation: Towards Building a Sign Language Foundation Model. [[paper]](https://arxiv.org/abs/2505.24355)     
@@ -138,6 +142,8 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 - [Complete List of Sign Language Production](./complete_list/sign_language_production.md)
 
 ### Other Sign Language Topic
+- [ACM MM 2025] Sentence-level Segmentation for Long Sign Language Videos with Captions      
+*Bowen Guo, Shiwei Gan, Yafeng Yin, Xiao Liu, Zhiwei Jiang, Shunmei Meng*
 - [ACL Findings 2025] Sign2Vis: Automated Data Visualization from Sign Language. [[paper]](http://wanyao.me/)     
 *Yao Wan, Yang Wu, Zhen Li, Guobiao Zhang, Hongyu Zhang, Zhou Zhao, Hai Jin, April Wang*
 - [ACL Findings 2025] 2M-BELEBELE: Highly Multilingual Speech and American Sign Language Comprehension Dataset. [[paper]](https://openreview.net/forum?id=uV0gGimcuD)     
@@ -166,6 +172,8 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 *Rotem Shalev Arkushin, Amit Moryossef, Ohad Fried*
 
 ### Co-speech Gesture Generation
+- [ACM MM 2025] Contextual Gesture: Co-Speech Gesture Video Generation through Context-aware Gesture Representation [[paper]](https://arxiv.org/abs/2502.07239)    
+*Pinxin Liu, Pengfei Zhang, Hyeongwoo Kim, Pablo Garrido, Ari Shapiro, Kyle Olszewski*
 - [CVPR 2025] Retrieving Semantics from the Deep: an RAG Solution for Gesture Synthesis. [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Mughal_Retrieving_Semantics_from_the_Deep_an_RAG_Solution_for_Gesture_CVPR_2025_paper.html)    
   *Muhammad Hamza Mughal, Rishabh Dabral, Merel CJ Scholman, Vera Demberg, Christian Theobalt*
 - [CVPR 2025] Co-Speech Gesture Video Generation with Implicit Motion-Audio Entanglement. [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Li_Co-Speech_Gesture_Video_Generation_with_Implicit_Motion-Audio_Entanglement_CVPR_2025_paper.html)    
