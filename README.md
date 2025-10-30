@@ -27,7 +27,7 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 ## Conference Paper
 
 ### Sign Language Recognition
-- [ICCV 2025] Cross-View Isolated Sign Language Recognition via View Synthesis and Feature Disentanglement.      
+- [ICCV 2025] Cross-View Isolated Sign Language Recognition via View Synthesis and Feature Disentanglement. [[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Shen_Cross-View_Isolated_Sign_Language_Recognition_via_View_Synthesis_and_Feature_ICCV_2025_paper.html)    
 *Xin Shen, Xinyu Wang, Lei Shen, Kaihao Zhang, Xin Yu*
 - [CVPR 2025] VSNet: Focusing on the Linguistic Characteristics of Sign Language. [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Li_VSNet_Focusing_on_the_Linguistic_Characteristics_of_Sign_Language_CVPR_2025_paper.html)     
 *YuHao Li, Xinyue Chen, Hongkai Li, Xiaorong Pu, Peng Jin, Yazhou Ren*
@@ -62,17 +62,21 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 - [Complete List of Sign Language Recognition](./complete_list/sign_language_recognition.md)
 
 ### Sign Language Translation
-- [ICCV 2025] Leveraging the Power of MLLMs for Gloss-Free Sign Language Translation. [[paper]](https://arxiv.org/abs/2411.16789)     
+- [NIPS 2025] Geo-Sign: Hyperbolic Contrastive Regularisation for Geometrically Aware Sign Language Translation. [[paper]](https://openreview.net/forum?id=WkUzrUsqR9)     
+*Edward Fish, Richard Bowden*
+- [NIPS 2025] Bridging Sign and Spoken Languages: Pseudo Gloss Generation for Sign Language Translation. [[paper]](https://openreview.net/forum?id=p6Huickfj7)     
+*Jianyuan Guo, Peike Li, Trevor Cohn*
+- [ICCV 2025] Leveraging the Power of MLLMs for Gloss-Free Sign Language Translation. [[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Kim_Leveraging_the_Power_of_MLLMs_for_Gloss-Free_Sign_Language_Translation_ICCV_2025_paper.html)     
 *Jungeun Kim, Hyeongwoo Jeon, Jongseong Bae, Ha Young Kim*
-- [ACM MM 2025] Gloss Matters: Unlocking the Potential of Non-Autoregressive Sign Language Translation.      
+- [ACM MM 2025] Gloss Matters: Unlocking the Potential of Non-Autoregressive Sign Language Translation. [[paper]](https://dl.acm.org/doi/10.1145/3746027.3755319)     
 *Zhihao Wang, Shiyu Liu, Zhiwei He, Kangjie Zheng, Liangying Shao, Junfeng Yao, Jinsong Su*
 - [BMVC 2025] Beyond Gloss: A Hand-Centric Framework for Gloss-Free Sign Language Translation. [[paper]](https://arxiv.org/abs/2507.23575)     
 *Sobhan Asasi, Mohamed Ilyas Lakhal, Ozge Mercanoglu Sincan, Richard Bowden*
-- [ACL 2025] SHuBERT: Self-Supervised Sign Language Representation Learning via Multi-Stream Cluster Prediction. [[paper]](https://arxiv.org/abs/2411.16765)     
+- [ACL 2025] SHuBERT: Self-Supervised Sign Language Representation Learning via Multi-Stream Cluster Prediction. [[paper]](https://aclanthology.org/2025.acl-long.1397/)     
 *Shester Gueuwou, Xiaodan Du, Greg Shakhnarovich, Karen Livescu, Alexander H. Liu*
-- [ACL 2025] Multilingual Gloss-free Sign Language Translation: Towards Building a Sign Language Foundation Model. [[paper]](https://arxiv.org/abs/2505.24355)     
+- [ACL 2025] Multilingual Gloss-free Sign Language Translation: Towards Building a Sign Language Foundation Model. [[paper]](https://aclanthology.org/2025.acl-short.43/)     
 *Sihan Tan, Taro Miyazaki, Kazuhiro Nakadai*
-- [ACL Findings 2025] SignMusketeers: An Efficient Multi-Stream Approach for Sign Language Translation at Scale. [[paper]](https://arxiv.org/abs/2406.06907)     
+- [ACL Findings 2025] SignMusketeers: An Efficient Multi-Stream Approach for Sign Language Translation at Scale. [[paper]](https://aclanthology.org/2025.findings-acl.1157/)     
 *Shester Gueuwou, Xiaodan Du, Greg Shakhnarovich, Karen Livescu*
 - [CVPR 2025] Lost in Translation, Found in Context: Sign Language Translation with Contextual Cues. [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Jang_Lost_in_Translation_Found_in_Context_Sign_Language_Translation_with_CVPR_2025_paper.html)     
 *Youngjoon Jang, Haran Raajesh, Liliane Momeni, Gul Varol, Andrew Zisserman*
@@ -121,9 +125,11 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 - [Complete List of Sign Language Translation](./complete_list/sign_language_translation.md)
 
 ### Sign Language Production
-- [ICCV 2025] GReg: Geometry-Aware Region Refinement for Sign Language Video Generation.    
+- [NIPS 2025] Advanced Sign Language Video Generation with Compressed and Quantized Multi-Condition Tokenization. [[paper]](https://openreview.net/forum?id=6FHvr5hJdd)   
+  *Cong Wang, Zexuan Deng, Zhiwei Jiang, Yafeng Yin, Fei Shen, Zifeng Cheng, Shiping Ge, Shiwei Gan, Qing Gu*
+- [ICCV 2025] GReg: Geometry-Aware Region Refinement for Sign Language Video Generation. [[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Shi_GReg_Geometry-Aware_Region_Refinement_for_Sign_Language_Video_Generation_ICCV_2025_paper.html)   
   *Tongkai Shi, Lianyu Hu, Fanhua Shang, Liqing Gao, Wei Feng*
-- [ICCV 2025] Signs as Tokens: A Retrieval-Enhanced Multilingual Sign Language Generator. [[paper]](https://arxiv.org/abs/2411.17799)   
+- [ICCV 2025] Signs as Tokens: A Retrieval-Enhanced Multilingual Sign Language Generator. [[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Zuo_Signs_as_Tokens_A_Retrieval-Enhanced_Multilingual_Sign_Language_Generator_ICCV_2025_paper.html)   
   *Ronglai Zuo, Rolandos Alexandros Potamias, Evangelos Ververas, Jiankang Deng, Stefanos Zafeiriou*
 - [CVPR 2025] Discrete to Continuous: Generating Smooth Transition Poses from Sign Language Observations. [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Tang_Discrete_to_Continuous_Generating_Smooth_Transition_Poses_from_Sign_Language_CVPR_2025_paper.html)   
   *Shengeng Tang, Jiayi He, Lechao Cheng, Jingjing Wu, Dan Guo, Richang Hong*
@@ -150,11 +156,11 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 - [Complete List of Sign Language Production](./complete_list/sign_language_production.md)
 
 ### Other Sign Language Topic
-- [ACM MM 2025] Sentence-level Segmentation for Long Sign Language Videos with Captions.      
+- [ACM MM 2025] Sentence-level Segmentation for Long Sign Language Videos with Captions. [[paper]](https://dl.acm.org/doi/10.1145/3746027.3755080)     
 *Bowen Guo, Shiwei Gan, Yafeng Yin, Xiao Liu, Zhiwei Jiang, Shunmei Meng*
-- [ACL Findings 2025] Sign2Vis: Automated Data Visualization from Sign Language. [[paper]](http://wanyao.me/)     
+- [ACL Findings 2025] Sign2Vis: Automated Data Visualization from Sign Language. [[paper]](https://aclanthology.org/2025.findings-acl.918/)     
 *Yao Wan, Yang Wu, Zhen Li, Guobiao Zhang, Hongyu Zhang, Zhou Zhao, Hai Jin, April Wang*
-- [ACL Findings 2025] 2M-BELEBELE: Highly Multilingual Speech and American Sign Language Comprehension Dataset. [[paper]](https://openreview.net/forum?id=uV0gGimcuD)     
+- [ACL Findings 2025] 2M-BELEBELE: Highly Multilingual Speech and American Sign Language Comprehension Dataset. [[paper]](https://aclanthology.org/2025.findings-acl.569/)     
 *Marta R. Costa-jussà, Bokai YU, Pierre Andrews, Belen Alastruey, Necati Cihan Camgoz, Joe Chuang, Jean Maillard, Christophe Ropers, Arina Turkatenko, Carleigh Wood*
 - [ACL Findings 2025] Large Language Models as Sign Language Interfaces: Mitigating the Requests of Deaf Users of LLMs in a Hearing-Centric World. [[paper]](https://openreview.net/forum?id=8HGvHrfFDx)     
 *Mert Inan, Anthony Sicilia, Malihe Alikhani*
@@ -170,7 +176,7 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
   *Zhengdi Yu, Shaoli Huang, yongkang cheng, Tolga Birdal*
 - [ACL 2024] Semi-Supervised Spoken Language Glossification. [[paper]](https://aclanthology.org/2024.acl-long.504/)    
   *Huijie Yao, Wengang Zhou, Hao Zhou, Houqiang Li*
-- [ACL 2024] American Sign Language Handshapes Reflect Pressures for Communicative Efficiency. [[paper]](https://arxiv.org/abs/2406.04024)    
+- [ACL 2024] American Sign Language Handshapes Reflect Pressures for Communicative Efficiency. [[paper]](https://aclanthology.org/2024.acl-long.839/)    
   *Kayo Yin, Terry Regier, Dan Klein*
 - [EMNLP Findings 2023] Enhancing Accessible Communication: from European Portuguese to Portuguese Sign Language. [[paper]](https://aclanthology.org/2023.findings-emnlp.766/)    
   *Catarina Sousa, Luisa Coheur, Mara Moita*
@@ -180,15 +186,17 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 *Rotem Shalev Arkushin, Amit Moryossef, Ohad Fried*
 
 ### Co-speech Gesture Generation
-- [ICCV 2025] Democratizing High-Fidelity Co-Speech Gesture Video Generation. [[paper]](https://arxiv.org/abs/2507.06812)    
+- [NIPS 2025] PyraMotion: Attentional Pyramid-Structured Motion Integration for Co-Speech 3D Gesture Synthesis. [[paper]](https://openreview.net/forum?id=QJSrgYcf4b)     
+*Zhizhuo Yin, Yuk Hang Tsui, Pan Hui*
+- [ICCV 2025] Democratizing High-Fidelity Co-Speech Gesture Video Generation. [[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Yang_Democratizing_High-Fidelity_Co-Speech_Gesture_Video_Generation_ICCV_2025_paper.html)    
 *Xu Yang, Shaoli Huang, Shenbo Xie, Xuelin Chen, Yifei Liu, Changxing Ding*
-- [ICCV 2025] GestureHYDRA: Semantic Co-speech Gesture Synthesis via Hybrid Modality Diffusion Transformer and Cascaded-Synchronized Retrieval-Augmented Generation. [[paper]](https://www.arxiv.org/abs/2507.22731)    
+- [ICCV 2025] GestureHYDRA: Semantic Co-speech Gesture Synthesis via Hybrid Modality Diffusion Transformer and Cascaded-Synchronized Retrieval-Augmented Generation. [[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Yang_GestureHYDRA_Semantic_Co-speech_Gesture_Synthesis_via_Hybrid_Modality_Diffusion_Transformer_ICCV_2025_paper.html)    
 *Quanwei Yang, Luying Huang, Kaisiyuan Wang, Jiazhi Guan, Shengyi He, Fengguo Li, Hang Zhou, Lingyun Yu, Yingying Li, Haocheng Feng, Hongtao Xie*
-- [ICCV 2025] GestureLSM: Latent Shortcut based Co-Speech Gesture Generation with Spatial-Temporal Modeling. [[paper]](https://arxiv.org/abs/2501.18898)    
+- [ICCV 2025] GestureLSM: Latent Shortcut based Co-Speech Gesture Generation with Spatial-Temporal Modeling. [[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Liu_GestureLSM_Latent_Shortcut_based_Co-Speech_Gesture_Generation_with_Spatial-Temporal_Modeling_ICCV_2025_paper.html)    
 *Pinxin Liu, Luchuan Song, Junhua Huang, Haiyang Liu, Chenliang Xu*
-- [ICCV 2025] SemGes: Semantics-aware Co-Speech Gesture Generation using Semantic Coherence and Relevance Learning. [[paper]](https://arxiv.org/abs/2507.19359)    
+- [ICCV 2025] SemGes: Semantics-aware Co-Speech Gesture Generation using Semantic Coherence and Relevance Learning. [[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Liu_SemGes_Semantics-aware_Co-Speech_Gesture_Generation_using_Semantic_Coherence_and_Relevance_ICCV_2025_paper.html)    
 *Lanmiao Liu, Esam Ghaleb, asli ozyurek, Zerrin Yumak*
-- [ACM MM 2025] Contextual Gesture: Co-Speech Gesture Video Generation through Context-aware Gesture Representation [[paper]](https://arxiv.org/abs/2502.07239)    
+- [ACM MM 2025] Contextual Gesture: Co-Speech Gesture Video Generation through Context-aware Gesture Representation [[paper]](https://dl.acm.org/doi/10.1145/3746027.3755140)    
 *Pinxin Liu, Pengfei Zhang, Hyeongwoo Kim, Pablo Garrido, Ari Shapiro, Kyle Olszewski*
 - [CVPR 2025] Retrieving Semantics from the Deep: an RAG Solution for Gesture Synthesis. [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Mughal_Retrieving_Semantics_from_the_Deep_an_RAG_Solution_for_Gesture_CVPR_2025_paper.html)    
   *Muhammad Hamza Mughal, Rishabh Dabral, Merel CJ Scholman, Vera Demberg, Christian Theobalt*
@@ -231,6 +239,8 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 - [Complete List of Co-speech Gesture Generation](./complete_list/co_speech_gesture_generation.md)
 
 ### Gesture Recognition
+- [NIPS 2025] Doodle to Detect: A Goofy but Powerful Approach to Skeleton-based Hand Gesture Recognition. [[paper]](https://openreview.net/forum?id=u8SXX5ITE6)     
+*Sang Hoon Han, Seonho Lee, Hyeok Nam, Jae Hyeon Park, Min Hee Cha, Min Geol Kim, Hyunse Lee, Sangyeon Ahn, Chae moon ju, Sung In Cho*
 - [CVPR 2025] Ges3ViG: Incorporating Pointing Gestures into Language-Based 3D Visual Grounding for Embodied Reference Understanding. [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Mane_Ges3ViG__Incorporating_Pointing_Gestures_into_Language-Based_3D_Visual_Grounding_CVPR_2025_paper.html)      
 *Atharv Mahesh Mane, Dulanga Weerakoon, Vigneshwaran Subbaraju, Sougata Sen, Sanjay Sarma, Archan Misra*
 - [CVPR 2025] SocialGesture: Delving into Multi-person Gesture Understanding. [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Cao_SocialGesture_Delving_into_Multi-person_Gesture_Understanding_CVPR_2025_paper.html)      
